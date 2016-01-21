@@ -20,7 +20,6 @@
 
 `This problem can be solved by both BFS and Dijkstra's SSSP algorithm.`
 
-- [Longest path in an undirected tree with only one traversal (from cs.se)](http://cs.stackexchange.com/q/11263/4911)
 
 ### Path problems
 
@@ -30,13 +29,12 @@
 
 - [Minimax path problem](http://cstheory.stackexchange.com/questions/5195/reference-for-fast-algorithm-for-bottleneck-shortest-paths) 
 
-> Specifically, given vertices `$s$` and `$t$` in an undirected graph with edge weights, you want the shortest path from `$s$` to `$t$`, 
-where the length of a path is the maximum edge on that path. This can be solved in `$O(n+m)$` time by finding the median edge weight 
-and (carefully) recursively deleting half the edges.
+> Specifically, given vertices `$s$` and `$t$` in an undirected graph with edge weights, you want the shortest path from `$s$` to `$t$`, where the length of a path is the maximum edge on that path. This can be solved in `$O(n+m)$` time by finding the median edge weight and (carefully) recursively deleting half the edges.
 
 - [How does following algorithm for finding longest path in tree work?](http://www.quora.com/How-does-following-algorithm-for-finding-longest-path-in-tree-work)
 
 - [Longest path in an undirected tree with only one traversal](http://cs.stackexchange.com/q/11263/4911)
+
 `We perform a depth-first search in post order and aggregate results on the way, that is we solve the problem recursively.`
 
 - [Sketch of Eulerian Circuit Algorithm](http://www.ms.uky.edu/~lee/ma515fa10/euler.pdf)
