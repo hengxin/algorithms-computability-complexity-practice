@@ -20,6 +20,8 @@
 
 `This problem can be solved by both BFS and Dijkstra's SSSP algorithm.`
 
+- [Longest path in an undirected tree with only one traversal (from cs.se)](http://cs.stackexchange.com/q/11263/4911)
+
 ### Path problems
 
 - [Dijkstra's algorithm with different color nodes](http://cs.stackexchange.com/q/33056/4911)
@@ -52,3 +54,5 @@ and (carefully) recursively deleting half the edges.
 - [Algorithm to find the shortest walk with k leaf nodes on a tree](http://cs.stackexchange.com/q/51738/4911)
 
 `Dynamic programming on a tree structure.`
+
+- [Find a maximum sum in matrix, subject to special constraint (from cs.se)](http://cs.stackexchange.com/q/51995/4911)
