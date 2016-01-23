@@ -10,9 +10,15 @@
 
 - [Find local minimum in `$n \times n$` matrix in `$O(n)$` time](http://stackoverflow.com/q/18525179/1833118) 
 
-`This is a good example to demonstrate the design of divide and conqure algorithm.
+`This is a good example to demonstrate the design of divide and conqure algorithm.`
 
 ## Graph Algorithms
+
+### Trees
+
+- [Determining if an undirected connected graph is minimally connected (from cs.se)](http://cs.stackexchange.com/q/52157/4911)
+
+`Def: Minimally Connected: it is connected and there is no edge that can be removed while still leaving the graph connected. Actually it is a tree (defined by any two of "connected, n-1 edges, no cycle")`
 
 ### DFS and BFS
 
