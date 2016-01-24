@@ -60,3 +60,9 @@
 `Dynamic programming on a tree structure.`
 
 - [Find a maximum sum in matrix, subject to special constraint (from cs.se)](http://cs.stackexchange.com/q/51995/4911)
+
+## Recreational
+
+- [Efficient algorithm for 'unsumming' a set of sums (from cs.se)](http://cs.stackexchange.com/q/45525/4911)
+
+## Miscellaneous
