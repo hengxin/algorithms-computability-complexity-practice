@@ -61,6 +61,12 @@
 
 - [Find a maximum sum in matrix, subject to special constraint (from cs.se)](http://cs.stackexchange.com/q/51995/4911)
 
+## More Mathematical than Algorithmic
+
+- [Shortest path in divisors graph](http://cs.stackexchange.com/q/52108/4911)
+
+`Relationship with gcd or lcm`
+
 ## Recreational
 
 - [Efficient algorithm for 'unsumming' a set of sums (from cs.se)](http://cs.stackexchange.com/q/45525/4911)
