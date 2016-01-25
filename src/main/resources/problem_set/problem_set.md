@@ -1,6 +1,6 @@
 ## Manipulation of Asymptotic Notations
 
-- [Master Theorem to get tight bound (from cs.se)](http://cs.stackexchange.com/q/52229/4911)
+- [Using the Master theorem on a recurrence with non-constant `a` (from cs.se)](http://cs.stackexchange.com/q/52229/4911)
 
 `To solve $T(n)  = 3^n T(\frac{n} 3) + O(1)$; try $\log T(n)$`
 
