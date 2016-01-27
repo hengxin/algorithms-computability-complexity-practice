@@ -8,6 +8,10 @@
  
   `Try and Prove.`
 
+- [Solving a recurrence relation with $\sqrt{n}$ as parameter](http://cs.stackexchange.com/q/6410/4911)
+
+  `By unfolding OR By substitution.`
+
 ## Search and Selection
 
 - [How to find the kth smallest element in the union of two sorted arrays? (from stackoverflow)](http://stackoverflow.com/q/4607945/1833118)
