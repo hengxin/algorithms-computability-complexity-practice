@@ -1,3 +1,5 @@
+# Algorithm Analysis
+
 ## Manipulation of Asymptotic Notations
 
 - [Using the Master theorem on a recurrence with non-constant `a` (from cs.se)](http://cs.stackexchange.com/q/52229/4911)
@@ -11,6 +13,12 @@
 - [Solving a recurrence relation with $\sqrt{n}$ as parameter](http://cs.stackexchange.com/q/6410/4911)
 
   `By unfolding OR By substitution.`
+
+## Amortized Analysis
+
+- [Potential method for dynamic binary search (from cs.se)](http://cs.stackexchange.com/q/37822/4911)
+
+# Algorithm Design
 
 ## Search and Selection
 
