@@ -87,6 +87,9 @@
 - [Do the minimum spanning trees of a weighted graph have the same number of edges with a given weight?](http://cs.stackexchange.com/questions/2204/do-the-minimum-spanning-trees-of-a-weighted-graph-have-the-same-number-of-edges)
 
   `The answer is Yes.`
+- [The MST property](http://cs.stackexchange.com/q/57477/4911)
+
+  `A spanning tree T is an MST iff T has the MST property.`
 
 ## Greedy Algorithms
 
