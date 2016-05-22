@@ -55,9 +55,12 @@
   `Run BFS on any node s in the graph, remembering the node u discovered last. Run BFS from u remembering the node v discovered last. d(u,v) is the diameter of the tree.`
 
 ### Cycles
-- [Odd-length directed cycle](http://algs4.cs.princeton.edu/42digraph/); see also [@cs-stackexchange](http://cs.stackexchange.com/q/3517/4911)
+- [Check existence of odd-length directed cycle](http://algs4.cs.princeton.edu/42digraph/); see also [@cs-stackexchange](http://cs.stackexchange.com/q/3517/4911)
 
   `Solution. We claim that a digraph G has an odd-length directed cycle if and only if one (or more) of its strong components is nonbipartite (when treated as an undirected graph).`
+- [Find odd-length directed cycle](http://cs.stackexchange.com/q/57565/4911)
+
+  `Using BFS.`
 - [Shortest directed cycle](http://algs4.cs.princeton.edu/42digraph/)
   - Using Floyd-Warshall algorithm $O(n^3)$
   - Solution (O(nm)): run BFS from each vertex s. The shortest cycle through s is an edge v->s, plus a shortest path from s to v.
