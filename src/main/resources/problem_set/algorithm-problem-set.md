@@ -20,6 +20,10 @@
 
 - [Potential method for dynamic binary search (from cs.se)](http://cs.stackexchange.com/q/37822/4911)
 
+## Adversary Argument
+
+- [Why does merging two sorted arrays take 2N - 1 comparisons?](http://cs.stackexchange.com/q/57726/4911)
+
 # Algorithm Design
 
 ## Search and Selection
@@ -64,6 +68,13 @@
 - [Shortest directed cycle](http://algs4.cs.princeton.edu/42digraph/)
   - Using Floyd-Warshall algorithm $O(n^3)$
   - Solution (O(nm)): run BFS from each vertex s. The shortest cycle through s is an edge v->s, plus a shortest path from s to v.
+
+- [Finding length of shortest cycle in undirected graph](http://stackoverflow.com/q/20847463/1833118)
+
+  `It explains why some BFS/DFS fail`.
+- [An efficient algorithm to find a shortest cycle including a specific vertex $v$ in undirected graph](http://cs.stackexchange.com/a/57688/4911)
+
+  `BFS on this undirected graph from $v$; terminates when reaching $v$ again (BFS should be slightly modified)`
 
 ### Path problems
 
