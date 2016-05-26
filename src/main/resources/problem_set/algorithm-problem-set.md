@@ -59,6 +59,8 @@
   `Run BFS on any node s in the graph, remembering the node u discovered last. Run BFS from u remembering the node v discovered last. d(u,v) is the diameter of the tree.`
 
 ### Cycles
+
+#### Directed cycles
 - [Check existence of odd-length directed cycle](http://algs4.cs.princeton.edu/42digraph/); see also [@cs-stackexchange](http://cs.stackexchange.com/q/3517/4911)
 
   `Solution. We claim that a digraph G has an odd-length directed cycle if and only if one (or more) of its strong components is nonbipartite (when treated as an undirected graph).`
@@ -69,12 +71,19 @@
   - Using Floyd-Warshall algorithm $O(n^3)$
   - Solution (O(nm)): run BFS from each vertex s. The shortest cycle through s is an edge v->s, plus a shortest path from s to v.
 
+#### Undirected cycles
 - [Finding length of shortest cycle in undirected graph](http://stackoverflow.com/q/20847463/1833118)
 
   `It explains why some BFS/DFS fail`.
 - [An efficient algorithm to find a shortest cycle including a specific vertex $v$ in undirected graph](http://cs.stackexchange.com/a/57688/4911)
 
   `BFS on this undirected graph from $v$; terminates when reaching $v$ again (BFS should be slightly modified)`
+
+- [Cycle of length 4 in an undirected graph](http://mathoverflow.net/q/67960/28199)
+  
+  - [Solution 1:](http://mathoverflow.net/a/67970/28199) `BFS from s, s -> x, s -> y, then x -> t, y -> t: t has two shorest paths of length 2`
+  - [Solution 2:](http://mathoverflow.net/a/199702/28199) `In O(V^3): for each u,v pair, find two nodes x,y which are neighbors to both u and v`
+  - [Solution 3:](http://mathoverflow.net/a/16464/28199) `In O(V^2): don't understand yet`
 
 ### Path problems
 
