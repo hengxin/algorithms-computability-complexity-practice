@@ -104,6 +104,9 @@
 - [Sketch of Eulerian Circuit Algorithm](http://www.ms.uky.edu/~lee/ma515fa10/euler.pdf)
 
 - [Hierholzer's algorithm for finding Eulerian Circuit (wiki)](https://en.wikipedia.org/wiki/Eulerian_path#Hierholzer.27s_algorithm)
+- [Shortest distance from a set of points](http://cs.stackexchange.com/a/57940/4911)
+
+  `Introduce a new vertex s pointing to all vertices in the set. Then apply SSSP algorithm from s.`
 
 ### Minimum spanning tree
 
@@ -117,6 +120,9 @@
 - [Finding minimum spanning tree with O(|V|)](http://cs.stackexchange.com/q/19221/4911)
   
   `The extra constraint is $|E| = |V| + 10$`
+- [Show that there's a minimum spanning tree if all edges have different costs](http://math.stackexchange.com/a/352212/51434)
+
+  `A typical method when comparing two different spanning trees.`
 
 ## Greedy Algorithms
 
@@ -131,6 +137,12 @@
   `Dynamic programming on a tree structure.`
 
 - [Find a maximum sum in matrix, subject to special constraint (from cs.se)](http://cs.stackexchange.com/q/51995/4911)
+- [What is the intuition on why the longest path problem does not have optimal substructure?](http://cs.stackexchange.com/q/56756/4911)
+
+  `It has the optimal substructure and can be solved by dynamic programming; however, there are several parameters to maintain in DP.`
+- [Shortest path with exactly k edges](http://cs.stackexchange.com/a/11504/4911)
+
+  `It may not be a simple path.`
 
 ## More Mathematical than Algorithmic
 
