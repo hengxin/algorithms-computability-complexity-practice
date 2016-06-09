@@ -9,6 +9,13 @@
   - Java code. The algorithms and clients in this textbook.
   - Exercise solutions. Solutions to selected exercises.
 
+## Online Algorithms Lists
+- [ACM Collected Algorithms](http://calgo.acm.org/)
+
+  The Collected Algorithms (CALGO) is part of a family of publications produced by the ACM.
+  
+  It contains complete source code.
+
 ## Courses
 - [CMU 15-451 (Algorithms), Fall 2008](http://www.cs.cmu.edu/~avrim/451f08/)
   
