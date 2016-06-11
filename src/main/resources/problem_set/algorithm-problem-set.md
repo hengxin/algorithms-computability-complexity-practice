@@ -26,6 +26,13 @@
 
 # Algorithm Design
 
+## Divide and Conquer
+- [Maximum ordered ratio (from CMSC451)](https://www.cs.umd.edu/class/spring2016/cmsc451/ms.pdf)
+
+  *Problem*: Suppose you are given as input a sequence of numbers a1, a2, ... , an with n >= 2. Your goal is to find the largest ratio between two of these numbers where the numerator occurs after the denominator in the sequence.
+  
+  *Solution*: Divide and Conquer in O(n lg n). Or dynamic programming in O(n).
+
 ## Search and Selection
 
 - [How to find the kth smallest element in the union of two sorted arrays? (from stackoverflow)](http://stackoverflow.com/q/4607945/1833118)
@@ -143,6 +150,12 @@
 - [Shortest path with exactly k edges](http://cs.stackexchange.com/a/11504/4911)
 
   `It may not be a simple path.`
+  
+- [Maximum ordered ratio (from CMSC451)](https://www.cs.umd.edu/class/spring2016/cmsc451/ms.pdf)
+
+  *Problem*: Suppose you are given as input a sequence of numbers a1, a2, ... , an with n >= 2. Your goal is to find the largest ratio between two of these numbers where the numerator occurs after the denominator in the sequence.
+
+- [Longest Palindromic Subsequence](http://algorithms.tutorialhorizon.com/longest-palindromic-subsequence/)
 
 ## More Mathematical than Algorithmic
 
