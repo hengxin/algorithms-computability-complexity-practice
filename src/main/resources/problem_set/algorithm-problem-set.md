@@ -124,9 +124,12 @@
 
   `A spanning tree T is an MST iff T has the MST property.`
   
+<!--
 - [Finding minimum spanning tree with O(|V|)](http://cs.stackexchange.com/q/19221/4911)
   
   `The extra constraint is $|E| = |V| + 10$`
+-->
+
 - [Show that there's a minimum spanning tree if all edges have different costs](http://math.stackexchange.com/a/352212/51434)
 
   `A typical method when comparing two different spanning trees.`
