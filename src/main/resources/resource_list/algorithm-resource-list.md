@@ -10,13 +10,16 @@
   - Exercise solutions. Solutions to selected exercises.
 
 ## Online Algorithms Lists
+- [Stony Brook Algorithms Repository](http://www3.cs.stonybrook.edu/~algorith/)
+
+  This WWW page is intended to serve as a comprehensive collection of algorithm implementations for over seventy of the most fundamental problems in combinatorial algorithms. The problem taxonomy, implementations, and supporting material are all drawn from my book The Algorithm Design Manual. Since the practical person is more often looking for a program than an algorithm, we provide pointers to solid implementations of useful algorithms, when they are available.
 - [ACM Collected Algorithms](http://calgo.acm.org/)
 
   The Collected Algorithms (CALGO) is part of a family of publications produced by the ACM.
   
   It contains complete source code.
 
-## Courses
+## Courses for Basic Algorithms
 - [MIT 6.046/18.410: Design and Analysis of Algorithms by Prof. Erik Demaine](http://erikdemaine.org/classes/)
   - [Spring 2015](http://stellar.mit.edu/S/course/6/sp15/6.046J/) (with Srini Devadas and Nancy Lynch) also on OpenCourseWare including [video lectures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/)
   - [Spring 2013](http://stellar.mit.edu/S/course/6/sp13/6.046/) (with Costis Daskalakis)
@@ -47,6 +50,22 @@
 - [CMSC 451: Design and analysis of computer algorithms (Spring 2016)](https://www.cs.umd.edu/class/spring2016/cmsc451/)
 
   This course presents fundamental techniques for designing efficient computer algorithms, proving their correctness, and analyzing their performance. Topics to be covered include graph algorithms, greedy algorithms, divide-and-conquer algorithms, dynamic programming, network flow algorithms, computational intractability, approximation algorithms, randomized algorithms, and quantum algorithms.
+  
+- [CSE 373 - Analysis of Algorithms, by Steven Skiena](http://www3.cs.stonybrook.edu/~skiena/373/)
+
+  It contains [video lectures](http://www3.cs.stonybrook.edu/~algorith/video-lectures/).
+
+## Courses for Advanced Algorithms
+
+By "advanced algorithms", I mean network flow, linear programming, hasing, randomized algorithms, approximations, etc.
+
+- [Harvard CS125 (FALL 2015), by Profs. Michael Mitzenmacher and Madhu Sudan](http://people.seas.harvard.edu/~cs125/fall15/schedule.htm)
+- [Brown CS157 (Fall 2001) Design and Analysis of Algorithms, by Eli Upfal](http://cs.brown.edu/courses/cs157/classes.shtml)
+  
+  It contains [lecture notes](http://cs.brown.edu/courses/cs157/classes.shtml), [homework, and solutions](http://cs.brown.edu/courses/cs157/assignments.shtml).
+
+## Additional Material/Readings
+- [Computer Science 125: Algorithms & Complexity](http://people.seas.harvard.edu/~cs125/fall15/addition.htm)
 
 ## Columns
 - [Algo Column in GeeksforGeeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/)
